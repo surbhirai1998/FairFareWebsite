@@ -2,6 +2,7 @@
 
 @{
     ViewData["Title"] = "Price Prediction Using ML.NET";
+    ViewBag.Price = ViewBag.Price * 70;
 }
 
 <h2>Price Prediction using ML.NET</h2>
@@ -44,7 +45,7 @@
         @if (ViewBag.Price != null)
         {
             <h1>Result</h1>
-            <h2>Fare Price:@ViewBag.Price</h2>
+            <h2>Fare Price:Rs. @ViewBag.Price</h2>
         }
     </div>
 </div>
