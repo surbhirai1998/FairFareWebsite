@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\FairFare\FairFareML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\HP\source\repos\FairFare\FairFareML.Model\bin\Debug\netstandard2.0\FairFareML.Model.deps.json
+C:\Users\HP\source\repos\FairFare\FairFareML.Model\bin\Debug\netstandard2.0\FairFareML.Model.dll
+C:\Users\HP\source\repos\FairFare\FairFareML.Model\bin\Debug\netstandard2.0\FairFareML.Model.pdb
+C:\Users\HP\source\repos\FairFare\FairFareML.Model\obj\Debug\netstandard2.0\FairFareML.Model.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\FairFare\FairFareML.Model\obj\Debug\netstandard2.0\FairFareML.Model.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FairFare\FairFareML.Model\obj\Debug\netstandard2.0\FairFareML.Model.AssemblyInfo.cs
+C:\Users\HP\source\repos\FairFare\FairFareML.Model\obj\Debug\netstandard2.0\FairFareML.Model.dll
+C:\Users\HP\source\repos\FairFare\FairFareML.Model\obj\Debug\netstandard2.0\FairFareML.Model.pdb
